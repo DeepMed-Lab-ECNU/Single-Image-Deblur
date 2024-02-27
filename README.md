@@ -6,6 +6,7 @@ including DeepRFT and AdaRevD developed by DeepMed Lab.
 
 ## News
 2024/02/27 The paper of AdaRevD (AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring) is accepted by [CVPR 2024]().
+
 2022/11/19 The paper of DeepRFT (Intriguing findings of frequency selection for image deblurring) is accepted by [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25281).
 
 ## Model zoo
