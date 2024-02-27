@@ -19,13 +19,19 @@ including DeepRFT and AdaRevD developed by DeepMed Lab.
 
 ## Citation
 ```
-@inproceedings{xint2023freqsel, 
+@inproceedings{xintm2024AdaRevD, 
+    title = {AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring},
+    author = {Xintian Mao, Qingli Li and Yan Wang}, 
+    booktitle = {Proc. CVPR}, 
+    year = {2024}
+    }
+@inproceedings{xintm2023DeepRFT, 
     title = {Intriguing Findings of Frequency Selection for Image Deblurring},
     author = {Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, Wei Shen and Yan Wang}, 
-    booktitle = {Proceedings of the 37th AAAI Conference on Artificial Intelligence}, 
+    booktitle = {Proc. AAAI}, 
     year = {2023}
     }
-@inproceedings{,
+@inproceedings{xintm2021DeepRFTl,
     title={Deep Residual Fourier Transformation for Single Image Deblurring},
     author={Xintian Mao, Yiming Liu, Wei Shen, Qingli Li, Yan Wang},
     booktitle={arXiv:2111.11745},
