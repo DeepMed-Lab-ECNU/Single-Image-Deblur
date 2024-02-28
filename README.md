@@ -1,7 +1,7 @@
 # Single-Image-Deblur
 including DeepRFT and AdaRevD developed by DeepMed Lab.
 - [News](#news)
-- [Model zoo](#model-zoo)
+- [Model Zoo](#model-zoo)
 - [Citation](#citation)
 
 ## News
@@ -11,11 +11,11 @@ including DeepRFT and AdaRevD developed by DeepMed Lab.
 
 ## Model zoo
 
-| Model | Paper | Pytorch code |
+| Model | Paper | Pytorch Code |
 | - | - | - | 
 | DeepRFT-v1 | Deep Residual Fourier Transformation for Single Image Deblurring [[Arxiv]](https://arxiv.org/abs/2111.11745) | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
 | DeepRFT-v2 | Intriguing findings of frequency selection for image deblurring [[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/25281) | [DeepRFT-v2](https://github.com/INVOKERer/DeepRFT/tree/AAAI2023) |
-| AdaRevD | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]]() | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
+| AdaRevD    | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]]() | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
 
 ## Citation
 ```
