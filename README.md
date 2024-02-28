@@ -9,7 +9,7 @@ including DeepRFT and AdaRevD developed by DeepMed Lab.
 
 2022/11/19 The paper of DeepRFT (Intriguing findings of frequency selection for image deblurring) is accepted by [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25281).
 
-## Model zoo
+## Model Zoo
 
 | Model | Paper | Pytorch Code |
 | - | - | - | 
