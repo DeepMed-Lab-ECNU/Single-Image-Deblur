@@ -13,7 +13,7 @@ including DeepRFT and AdaRevD developed by DeepMed Lab.
 
 | Model | Paper | Pytorch Code |
 | - | - | - | 
-| DeepRFT-v1 | Deep Residual Fourier Transformation for Single Image Deblurring [[Arxiv]](https://arxiv.org/abs/2111.11745)                          | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
+| DeepRFT-v1 | Deep Residual Fourier Transformation for Single Image Deblurring [[ArXiv]](https://arxiv.org/abs/2111.11745)                          | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
 | DeepRFT-v2 | Intriguing findings of frequency selection for image deblurring [[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/25281) | [DeepRFT-v2](https://github.com/INVOKERer/DeepRFT/tree/AAAI2023) |
 | AdaRevD    | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]]()等专利号ing                               | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
 
