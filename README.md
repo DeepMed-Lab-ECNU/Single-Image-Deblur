@@ -1,5 +1,5 @@
 # Single-Image-Deblur
-Including DeepRFT and AdaRevD developed by DeepMed Lab.
+Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 - [News](#news)
 - [Model Zoo](#model-zoo)
 - [Citation](#citation)
