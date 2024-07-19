@@ -22,6 +22,12 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 
 ## Citation
 ```
+@inproceedings{xintm2024LoFormer, 
+    title = {LoFormer: Local Frequency Transformer for Image Deblurring},
+    author = {Xintian Mao, JIansheng Wang, Xingran Xie, Qingli Li and Yan Wang}, 
+    booktitle = {Proc. ACM MM}, 
+    year = {2024}
+    }
 @inproceedings{xintm2024AdaRevD, 
     title = {AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring},
     author = {Xintian Mao, Qingli Li and Yan Wang}, 
