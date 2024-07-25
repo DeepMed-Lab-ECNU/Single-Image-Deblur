@@ -17,7 +17,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 | - | - | - | 
 | DeepRFT-v1 | Deep Residual Fourier Transformation for Single Image Deblurring [[arXiv]](https://arxiv.org/abs/2111.11745)                          | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
 | DeepRFT-v2 | Intriguing Findings of Frequency Selection for Image Deblurring [[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/25281) | [DeepRFT-v2](https://github.com/INVOKERer/DeepRFT/tree/AAAI2023) |
-| AdaRevD    | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_AdaRevD_Adaptive_Patch_Exiting_Reversible_Decoder_Pushes_the_Limit_of_CVPR_2024_paper.html)                             | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
+| AdaRevD    | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]](https://arxiv.org/abs/2406.09135)  | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
 | LoFormer   | LoFormer: Local Frequency Transformer for Image Deblurring [[ACM MM 2024]](https://arxiv.org/abs/2407.16993)                             | [LoFormer](https://github.com/INVOKERer/LoFormer) |
 
 ## Citation
