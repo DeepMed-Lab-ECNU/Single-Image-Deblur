@@ -5,7 +5,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 - [Citation](#citation)
 
 ## News
-2024/07/16 The paper of LoFormer (LoFormer: Local Frequency Transformer for Image Deblurring) is accepted by [ACM MM 2024]().
+2024/07/16 The paper of LoFormer (LoFormer: Local Frequency Transformer for Image Deblurring) is accepted by [ACM MM 2024](https://arxiv.org/abs/2407.16993).
 
 2024/02/27 The paper of AdaRevD (AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring) is accepted by [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_AdaRevD_Adaptive_Patch_Exiting_Reversible_Decoder_Pushes_the_Limit_of_CVPR_2024_paper.html).
 
