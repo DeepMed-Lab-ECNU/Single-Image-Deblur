@@ -34,13 +34,13 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
     booktitle = {Proc. CVPR}, 
     year = {2024}
     }
-@inproceedings{xintm2023DeepRFTv2, 
+@inproceedings{xintm2023DeepRFTv1, 
     title = {Intriguing Findings of Frequency Selection for Image Deblurring},
     author = {Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, Wei Shen and Yan Wang}, 
     booktitle = {Proc. AAAI}, 
     year = {2023}
     }
-@inproceedings{xintm2021DeepRFTv1,
+@inproceedings{xintm2021DeepRFTv0,
     title={Deep Residual Fourier Transformation for Single Image Deblurring},
     author={Xintian Mao, Yiming Liu, Wei Shen, Qingli Li, Yan Wang},
     booktitle={arXiv:2111.11745},
