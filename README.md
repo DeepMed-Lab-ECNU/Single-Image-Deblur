@@ -19,10 +19,16 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 | DeepRFT-v1 | Intriguing Findings of Frequency Selection for Image Deblurring [[AAAI 2023]](https://ojs.aaai.org/index.php/AAAI/article/view/25281) | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT/tree/AAAI2023) |
 | AdaRevD    | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]](https://arxiv.org/abs/2406.09135)  | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
 | LoFormer   | LoFormer: Local Frequency Transformer for Image Deblurring [[ACM MM 2024]](https://arxiv.org/abs/2407.16993)                             | [LoFormer](https://github.com/INVOKERer/LoFormer) |
-| DeepRFT-v2 | DeepRFTv2: | [DeepRFT-v2]() |
+| DeepRFT-v2 | DeepRFTv2: Fourier Kernel Estimation for Image Deblurring  | [DeepRFT-v2](https://github.com/INVOKERer/DeepRFTv2) |
 
 ## Citation
 ```
+@inproceedings{xintm2025DeepRFTv2, 
+    title = {DeepRFTv2: Fourier Kernel Estimation for Image Deblurring},
+    author = {Xintian Mao, JIansheng Wang, Xingran Xie, Qingli Li and Yan Wang}, 
+    booktitle = {arXiv}, 
+    year = {2025}
+    }
 @inproceedings{xintm2024LoFormer, 
     title = {LoFormer: Local Frequency Transformer for Image Deblurring},
     author = {Xintian Mao, JIansheng Wang, Xingran Xie, Qingli Li and Yan Wang}, 
