@@ -5,7 +5,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 - [Citation](#citation)
 
 ## News
-2026/05/20 The paper of DGNO (DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring) is accepted by [ICML 2026]().
+2026/05/20 The paper of DGNO (DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring) is accepted by [ICML 2026](https://openreview.net/forum?id=Og7FKaRBQA&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
 
 2024/07/16 The paper of LoFormer (LoFormer: Local Frequency Transformer for Image Deblurring) is accepted by [ACM MM 2024](https://arxiv.org/abs/2407.16993).
 
@@ -22,7 +22,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 | AdaRevD    | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]](https://arxiv.org/abs/2406.09135)  | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
 | LoFormer   | LoFormer: Local Frequency Transformer for Image Deblurring [[ACM MM 2024]](https://arxiv.org/abs/2407.16993)                             | [LoFormer](https://github.com/INVOKERer/LoFormer) |
 | DeepRFT-v2 | DeepRFTv2: Kernel-level Learning for Image Deblurring  | [DeepRFT-v2](https://github.com/INVOKERer/DeepRFTv2) |
-| DGNO | DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring | [DDGNO](https://github.com/Duane245/DGNO) |
+| DGNO | DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring [ICML 2026](https://openreview.net/forum?id=Og7FKaRBQA&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [DDGNO](https://github.com/Duane245/DGNO) |
 
 ## Citation
 ```
