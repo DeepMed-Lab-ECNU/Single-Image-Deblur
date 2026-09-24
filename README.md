@@ -23,7 +23,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 | LoFormer   | LoFormer: Local Frequency Transformer for Image Deblurring [[ACM MM 2024]](https://arxiv.org/abs/2407.16993)                             | [LoFormer](https://github.com/INVOKERer/LoFormer) |
 | DeepRFT-v2 | DeepRFTv2: Kernel-level Learning for Image Deblurring  | [DeepRFT-v2](https://github.com/INVOKERer/DeepRFTv2) |
 | DGNO | DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring [[ICML 2026]](https://openreview.net/forum?id=Og7FKaRBQA&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [DDGNO](https://github.com/Duane245/DGNO) |
-
+| UniDeblur | Unified Motion Deblurring via Fourier Convolution Learning  | [UniDeblur](https://github.com/INVOKERer/UniDeblur) |
 ## Citation
 ```
 @inproceedings{dgno2026,
