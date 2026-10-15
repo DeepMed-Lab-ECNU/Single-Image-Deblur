@@ -26,6 +26,18 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 | UniDeblur | Unified Motion Deblurring via Fourier Convolution Learning [[arXiv]](https://arxiv.org/pdf/2610.12941)  | [UniMotionDeblur](https://github.com/INVOKERer/UniMotionDeblur) |
 ## Citation
 ```
+@inproceedings{xintm2026UniDeblur, 
+    title = {Unified Motion Deblurring via Fourier Convolution Learning},
+    author = {Xintian Mao, Jiansheng Wang, Huaiyuan Wang, Qingli Li, Yan Wang}, 
+    booktitle = {arXiv:2610.12941}, 
+    year = {2025}
+    }
+@inproceedings{xintm2025DeepRFTv2, 
+    title = {DeepRFTv2: Kernel-level Learning for Image Deblurring},
+    author = {Xintian Mao, Jiansheng Wang, Huaiyuan Wang, Qingli Li, Yan Wang}, 
+    booktitle = {arXiv:2511.21132}, 
+    year = {2025}
+    }
 @inproceedings{dgno2026,
   title     = {Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring},
  author = {Shaoqing Duan, Haofei Song, Xintian Mao, Qingli Li and Yan Wang}, 
