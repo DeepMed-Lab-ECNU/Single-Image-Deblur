@@ -30,7 +30,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
     title = {Unified Motion Deblurring via Fourier Convolution Learning},
     author = {Xintian Mao, Jiansheng Wang, Huaiyuan Wang, Qingli Li, Yan Wang}, 
     booktitle = {arXiv:2610.12941}, 
-    year = {2025}
+    year = {2026}
     }
 @inproceedings{xintm2025DeepRFTv2, 
     title = {DeepRFTv2: Kernel-level Learning for Image Deblurring},
