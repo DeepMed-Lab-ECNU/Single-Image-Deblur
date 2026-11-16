@@ -32,12 +32,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
     booktitle = {arXiv:2610.12941}, 
     year = {2026}
     }
-@inproceedings{xintm2025DeepRFTv2, 
-    title = {DeepRFTv2: Kernel-level Learning for Image Deblurring},
-    author = {Xintian Mao, Jiansheng Wang, Huaiyuan Wang, Qingli Li, Yan Wang}, 
-    booktitle = {arXiv:2511.21132}, 
-    year = {2025}
-    }
+
 @inproceedings{dgno2026,
   title     = {Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring},
  author = {Shaoqing Duan, Haofei Song, Xintian Mao, Qingli Li and Yan Wang}, 
@@ -47,7 +42,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 @inproceedings{xintm2025DeepRFTv2, 
     title = {DeepRFTv2: Fourier Kernel Estimation for Image Deblurring},
     author = {Xintian Mao, JIansheng Wang, Xingran Xie, Qingli Li and Yan Wang}, 
-    booktitle = {arXiv}, 
+    booktitle = {arXiv:2511.21132}, 
     year = {2025}
     }
 @inproceedings{xintm2024LoFormer, 
@@ -70,7 +65,7 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
     }
 @inproceedings{xintm2021DeepRFTv0,
     title={Deep Residual Fourier Transformation for Single Image Deblurring},
-    author={Xintian Mao, Yiming Liu, Wei Shen, Qingli Li, Yan Wang},
+    author={Xintian Mao, Yiming Liu, Wei Shen, Qingli Li and Yan Wang},
     booktitle={arXiv:2111.11745},
     year={2021}
     }
