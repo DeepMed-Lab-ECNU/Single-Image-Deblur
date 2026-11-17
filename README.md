@@ -23,12 +23,12 @@ Including DeepRFT, LoFormer and AdaRevD developed by DeepMed Lab.
 | AdaRevD    | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]](https://arxiv.org/abs/2406.09135)  | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
 | LoFormer   | LoFormer: Local Frequency Transformer for Image Deblurring [[ACM MM 2024]](https://arxiv.org/abs/2407.16993)                             | [LoFormer](https://github.com/INVOKERer/LoFormer) |
 | DGNO | DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring [[ICML 2026]](https://openreview.net/forum?id=Og7FKaRBQA&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [DDGNO](https://github.com/Duane245/DGNO) |
-| UniDeblur | UniDeblur: Unified Motion Deblurring via Fourier Convolution Learning [[arXiv]](https://arxiv.org/pdf/2610.12941)  | [UniMotionDeblur](https://github.com/INVOKERer/UniMotionDeblur) |
+| DeepRFTv3 | DeepRFTv3: Deep Residual Fourier Convolution for Unified Image Deblurring [[arXiv]](https://arxiv.org/pdf/2610.12941)  | [DeepRFTv3](https://github.com/INVOKERer/UniMotionDeblur) |
 ## Citation
 ```
 @inproceedings{xintm2026UniDeblur, 
-    title = {UniDeblur: Unified Motion Deblurring via Fourier Convolution Learning},
-    author = {Xintian Mao, Jiansheng Wang, Huaiyuan Wang, Qingli Li, Yan Wang}, 
+    title = {DeepRFTv3: Deep Residual Fourier Convolution for Unified Image Deblurring},
+    author = {Xintian Mao, Haofei Song, Huaiyuan Wang, Jiansheng Wang, Qingli Li, Yan Wang}, 
     booktitle = {arXiv:2610.12941}, 
     year = {2026}
     }
